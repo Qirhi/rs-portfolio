@@ -155,7 +155,7 @@ figure figcaption {
     width: 100%;
   }
   .slide-img {
-    background-size: cover;
+    background-size: contain;
   }
 }
 
