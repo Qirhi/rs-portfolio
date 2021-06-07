@@ -1757,6 +1757,13 @@ ul .technologies {
   margin-bottom: 20px;
 }
 
+.mobile-screen-large {
+  height: 600px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+}
+
 .mobile-flat {
   width: 400px;
   margin-left: 25%;
