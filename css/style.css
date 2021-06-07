@@ -154,6 +154,9 @@ figure figcaption {
   figure figcaption {
     width: 100%;
   }
+  .slide-img {
+    background-size: cover;
+  }
 }
 
 canvas {
