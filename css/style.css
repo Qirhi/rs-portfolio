@@ -155,9 +155,11 @@ figure figcaption {
     width: 100%;
   }
   .slide-img {
-    background-size: cover !important;
-    background-image: url('../images/img_bg_6.jpg') !important;
-    height: fit-content  !important;
+    /* background-size: cover !important;
+     */
+    height: 20%;
+    background-image: url('../images/img_bg_3.jpg') !important;
+    /* height: fit-content !important; */
   }
 }
 
